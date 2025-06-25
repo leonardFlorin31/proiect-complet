@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\services\\notificationshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:services\\notificationshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\services\\taskcollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:services\\taskcollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\services\\itaskcollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:services\\itaskcollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\services\\icollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:services\\icollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\settings\\imongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:settings\\imongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\tasksapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:tasksapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\controllers\\exercicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:controllers\\exercicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|c:\\my_code\\my projects\\c#\\tasksapi\\tasksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D326F28B-5C65-4164-AE58-D1732EB6B997}|TasksAPI.csproj|solutionrelative:tasksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:50:34.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAUwHcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:55:29.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationsHub.cs",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Services\\NotificationsHub.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationsHub.cs",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Services\\NotificationsHub.cs",
+              "RelativeToolTip": "Services\\NotificationsHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:12:07.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskCollectionService.cs",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Services\\TaskCollectionService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskCollectionService.cs",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Services\\TaskCollectionService.cs",
+              "RelativeToolTip": "Services\\TaskCollectionService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:51:58.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T10:16:26.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T11:20:38.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaskCollectionService.cs",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Services\\ITaskCollectionService.cs",
+              "RelativeDocumentMoniker": "Services\\ITaskCollectionService.cs",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Services\\ITaskCollectionService.cs",
+              "RelativeToolTip": "Services\\ITaskCollectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:30:22.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICollectionService.cs",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Services\\ICollectionService.cs",
+              "RelativeDocumentMoniker": "Services\\ICollectionService.cs",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Services\\ICollectionService.cs",
+              "RelativeToolTip": "Services\\ICollectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:28:58.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:16:50.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Settings\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "Settings\\MongoDBSettings.cs",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Settings\\MongoDBSettings.cs",
+              "RelativeToolTip": "Settings\\MongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:22:55.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMongoDBSettings.cs",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Settings\\IMongoDBSettings.cs",
+              "RelativeDocumentMoniker": "Settings\\IMongoDBSettings.cs",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Settings\\IMongoDBSettings.cs",
+              "RelativeToolTip": "Settings\\IMongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:21:43.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "Models\\TaskModel.cs",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Models\\TaskModel.cs",
+              "RelativeToolTip": "Models\\TaskModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:51:41.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T09:52:24.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TasksAPI.http",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\TasksAPI.http",
+              "RelativeDocumentMoniker": "TasksAPI.http",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\TasksAPI.http",
+              "RelativeToolTip": "TasksAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-29T10:16:29.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExercicesController.cs",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Controllers\\ExercicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExercicesController.cs",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\Controllers\\ExercicesController.cs",
+              "RelativeToolTip": "Controllers\\ExercicesController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:09:58.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TasksAPI.csproj",
+              "DocumentMoniker": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\TasksAPI.csproj",
+              "RelativeDocumentMoniker": "TasksAPI.csproj",
+              "ToolTip": "C:\\MY_CODE\\MY Projects\\C#\\TasksAPI\\TasksAPI.csproj",
+              "RelativeToolTip": "TasksAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T10:14:58.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

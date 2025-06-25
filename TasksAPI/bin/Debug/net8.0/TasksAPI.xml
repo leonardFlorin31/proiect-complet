@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TasksAPI</name>
+    </assembly>
+    <members>
+        <member name="T:TasksAPI.Controllers.TaskController">
+            <summary>
+            Controller for managing tasks
+            </summary>
+        </member>
+        <member name="M:TasksAPI.Controllers.TaskController.#ctor(TasksAPI.Services.ITaskCollectionService)">
+            <summary>
+             Constructor
+            </summary>
+        </member>
+        <member name="M:TasksAPI.Controllers.TaskController.GetTasks">
+            <summary>
+            Retrieves all tasks.
+            </summary>
+            <returns>Returns a list of all tasks.</returns>
+        </member>
+        <member name="M:TasksAPI.Controllers.TaskController.GetTaskById(System.Guid)">
+            <summary>
+            Retrieves a task by id
+            </summary>
+            <param name="id">The id of the task to retrieve</param>
+            <returns></returns>
+        </member>
+        <member name="M:TasksAPI.Controllers.TaskController.CreateTask(TasksAPI.Models.TaskModel)">
+            <summary>
+            Creates a new task.
+            </summary>
+            <param name="task">The task to create.</param>
+            <returns>Returns the created task ID.</returns>
+        </member>
+        <member name="M:TasksAPI.Controllers.TaskController.UpdateTask(System.String,TasksAPI.Models.TaskModel)">
+            <summary>
+            Updates an existing task.
+            </summary>
+            <param name="task">The updated task information.</param>
+            <returns>Returns a message indicating the success of the update.</returns>
+        </member>
+        <member name="M:TasksAPI.Controllers.TaskController.Delete(System.Guid)">
+            <summary>
+            Deletes a task by ID.
+            </summary>
+            <param name="id">The ID of the task to delete.</param>
+            <returns>Returns a message indicating the success of the deletion.</returns>
+        </member>
+        <member name="M:TasksAPI.Controllers.TaskController.GetByStatus(System.String)">
+            <summary>
+            Retrieves all tasks with specified status
+            </summary>
+            <param name="status">The status to filter</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

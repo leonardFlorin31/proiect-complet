@@ -1,0 +1,176 @@
+[
+  {
+    "ContainingType": "TasksAPI.Controllers.ExercicesController",
+    "Method": "Get",
+    "RelativePath": "{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksAPI.Controllers.ExercicesController",
+    "Method": "DeleteAtIndex",
+    "RelativePath": "delete/{index}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "index",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksAPI.Controllers.ExercicesController",
+    "Method": "GetFruits",
+    "RelativePath": "fruits",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksAPI.Controllers.ExercicesController",
+    "Method": "SumNumbers",
+    "RelativePath": "sum",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numbers",
+        "Type": "System.Collections.Generic.List\u00601[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksAPI.Controllers.TaskController",
+    "Method": "GetTasks",
+    "RelativePath": "Task",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksAPI.Controllers.TaskController",
+    "Method": "CreateTask",
+    "RelativePath": "Task",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "TasksAPI.Models.TaskModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksAPI.Controllers.TaskController",
+    "Method": "GetTaskById",
+    "RelativePath": "Task/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksAPI.Controllers.TaskController",
+    "Method": "UpdateTask",
+    "RelativePath": "Task/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "task",
+        "Type": "TasksAPI.Models.TaskModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksAPI.Controllers.TaskController",
+    "Method": "Delete",
+    "RelativePath": "Task/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksAPI.Controllers.TaskController",
+    "Method": "GetByStatus",
+    "RelativePath": "Task/byStatus/{status}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksAPI.Controllers.ExercicesController",
+    "Method": "UpdateAtIndex",
+    "RelativePath": "update/{index}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "index",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "replacer",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
